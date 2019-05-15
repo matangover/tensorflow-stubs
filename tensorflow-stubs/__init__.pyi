@@ -18,7 +18,7 @@ from tensorflow.python.platform import flags as flags
 from tensorflow.python.util.lazy_loader import LazyLoader as LazyLoader
 from typing import Any as Any
 
-contrib: Any
+# contrib: Any
 
 ### ADDED
 from tensorflow.python.ops.variable_scope import variable_scope as variable_scope
